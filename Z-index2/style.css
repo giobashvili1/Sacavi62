@@ -1,0 +1,45 @@
+ 
+body{
+    margin: 0;
+    background-color: black;
+    
+}
+ 
+ .box1 img{
+    width: 435px;
+    height: 254px;
+    position: absolute;
+    z-index: 3;
+}
+.box2{
+    width: 558px;
+height: 254px;
+position: absolute;
+z-index: 1;
+left: 400px;
+
+}
+.box3{
+    width: 421px;
+height: 254px;
+position: absolute;
+z-index: 2;
+left: 945px;
+
+}
+.text{
+    
+    color: white;
+    font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+top: 0;
+left: 60px;
+margin-top: 180px;
+text-align: center;
+
+
+}
+
